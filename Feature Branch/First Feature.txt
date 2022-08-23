@@ -1,5 +1,10 @@
 This is my First Feature.
+public static string variable3="" \\class Member Variable
+public static string variable4="" \\class Member Variable
+public static string variable5="" \\class Member Variable
 
+testing;
+testing2;
 public stattic string variable1=" "; //class member Variable
 public static string variable2=" ";  //class member Variable
 testing going on;
