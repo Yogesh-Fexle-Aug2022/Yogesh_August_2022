@@ -1,1 +1,1 @@
-This is my First Feature.
+This is my First Feature. My Second Feature.
