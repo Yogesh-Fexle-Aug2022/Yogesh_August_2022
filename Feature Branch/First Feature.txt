@@ -3,4 +3,5 @@ This is my First Feature.
 public stattic string variable1=" "; //class member Variable
 public static string variable2=" ";  //class member Variable
 testing going on;
- 
+ public static string variable6="";//class member Variable
+public static string variable7="";//class member Variable
